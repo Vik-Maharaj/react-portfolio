@@ -41,7 +41,16 @@ function NavBar() {
                 smooth={true}
               >
                 ABOUT
-              </Link>
+            </Link>
+          </li>
+          <li className=" nav-item">
+            <Link
+              to="/"
+              className="navbar-brand"
+              activeClass="active"
+              spy={true}
+              smooth={true}
+            >
           </ul>
         </div>
       </nav>
