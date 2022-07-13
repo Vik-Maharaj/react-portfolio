@@ -41,16 +41,41 @@ function NavBar() {
                 smooth={true}
               >
                 ABOUT
-            </Link>
-          </li>
-          <li className=" nav-item">
-            <Link
-              to="/"
-              className="navbar-brand"
-              activeClass="active"
-              spy={true}
-              smooth={true}
-            >
+              </Link>
+            </li>
+            <li className=" nav-item">
+              <Link
+                to="/"
+                className="navbar-brand"
+                activeClass="active"
+                spy={true}
+                smooth={true}
+              >
+                VIK MAHARAJ
+              </Link>
+            </li>
+            <li className="nav-item navbar-text">
+              <Link
+                to="resume"
+                className="nav-link"
+                activeClass="active"
+                spy={true}
+                smooth={true}
+              >
+                RESUME
+              </Link>
+            </li>
+            <li className="nav-item navbar-text">
+              <Link
+                to="contact"
+                className="nav-link"
+                activeClass="active"
+                spy={true}
+                smooth={true}
+              >
+                CONTACT
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
