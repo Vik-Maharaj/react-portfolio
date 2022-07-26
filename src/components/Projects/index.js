@@ -1,5 +1,6 @@
 import React from "react";
 import projects from "../../projects";
+import Technologies from "../Technologies";
 
 function Project() {
     return projects.map(project => {
@@ -30,7 +31,7 @@ function Project() {
                     <h4 className="projectTitle">{project.title}</h4>
                     <p className="projectAbout">{project.about}</p>
                     <ul className="technologies">
-                        <Technologies> techItems={project.technologies}></Technologie>
+                    <Technologies techItems={project.technologies}></Technologies>
                     </ul>
                         <div className="row">
                             <button type="button" className="btn btn-info"><a className="repoLink" href={project.repo}>Repo</a></button>
