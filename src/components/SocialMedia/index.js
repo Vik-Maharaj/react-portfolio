@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function SocialLinks() {
+function SocialMedia() {
     return (
       <div className="row">
         <div className="row">
