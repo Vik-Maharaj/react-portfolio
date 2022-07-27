@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import ProjectList from "../../components/ProjectList";
 
 function Projects() {
     return (
@@ -10,7 +11,7 @@ function Projects() {
                 </div>
             </div>
             <div className="row">
-                <Project2 />
+                <ProjectList />
             </div>
         </div>
     )
