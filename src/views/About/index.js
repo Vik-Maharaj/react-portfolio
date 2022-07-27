@@ -1,4 +1,5 @@
 import React from "react";
+import MyImage from "../../assets/hero-section-picture-02.png";
 import "./style.css";
 
 function About() {
@@ -7,7 +8,7 @@ function About() {
         <div className="viewThree" id="about">
             <div className="row">
                 <div className="col-md about-left">
-                    <img src={MeOnWater} className="about-photo img-fluid" alt="Me"></img>
+                    <img src={MyImage} className="about-photo img-fluid" alt="Me"></img>
                 </div>
                 <div className="col-md">
                     <h3 className="viewTitle" id="aboutTitle">ABOUT</h3>
