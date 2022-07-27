@@ -67,6 +67,5 @@ function ProjectList() {
     );
   });
 }
-//need to import the reactstrap button (1 for site, 1 for repo, 1 for the toggle)
 
 export default ProjectList;
