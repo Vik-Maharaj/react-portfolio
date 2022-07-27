@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import ResumePDF from "../../components/ResumePDF/AStefankiewicz_Resume.pdf";
+import ResumePDF from "../../components/Resume/vik-maharaj-web-developer-resume.pdf";
 
 function Resume() {
 
