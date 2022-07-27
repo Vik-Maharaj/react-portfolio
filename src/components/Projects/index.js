@@ -1,5 +1,5 @@
 import React from "react";
-import projects from "../../projects";
+import projects from "../../projects.json";
 import Technologies from "../Technologies";
 
 function Project() {
