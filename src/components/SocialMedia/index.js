@@ -12,8 +12,8 @@ function SocialMedia() {
         <div className="row">
           <div className="col-sm" />
           <div className="col-sm text-center">
-            <a href="" target="_blank"><i class="fab fa-github-square fa-3x" /></a>
-            <a href="" target="_blank"><i class="fab fa-linkedin fa-3x" /></a>
+            <a href="https://github.com/Vik-Maharaj" target="_blank"><i class="fab fa-github-square fa-3x" /></a>
+            <a href="https://www.linkedin.com/in/vikaashmaharaj/" target="_blank"><i class="fab fa-linkedin fa-3x" /></a>
           </div>
           <div className="col-sm" />
         </div>
