@@ -55,7 +55,7 @@ function ProjectList() {
               <div className="row card-text">
                 <p>{project.about}</p>
                 <ul className="technologies">
-                  <Technologies techItems={project.technologies}></Technologies>
+                  <Technologies technologies={project.technologies}></Technologies>
                 </ul>
               </div>
               {checkRepoLink(project)}
