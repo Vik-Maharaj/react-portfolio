@@ -100,7 +100,7 @@ html {
     }
 
     .mobile-image {
-        background-image: url("");
+        background-image: url("../../assets/hero-bg-02.jpg");
         width: 100%;
         height: 75vh;
         z-index: -1000;

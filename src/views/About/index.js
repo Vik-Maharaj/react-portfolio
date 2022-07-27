@@ -1,5 +1,5 @@
 import React from "react";
-import MyImage from "../../assets/hero-section-picture-02.png";
+import MyImage from "../../assets/hero-section-picture_02.png";
 import "./style.css";
 
 function About() {
