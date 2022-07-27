@@ -9,7 +9,7 @@ import Contact from "./views/Contact";
 function App() {
   return (
     <div className="App">
-     <div className="">
+     <div className="wrapper">
             <Main />
             <Projects />
             <About />
