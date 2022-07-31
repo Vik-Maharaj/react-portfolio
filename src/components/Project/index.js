@@ -1,6 +1,7 @@
 import React from "react";
 import projects from "../../projects.json";
-import Technologies from "../Technologies";
+import TechListItem from "../TechListItem";
+
 
 function Project() {
     return projects.map(project => {
@@ -14,7 +15,7 @@ function Project() {
                         <h4 className="projectTitle">{project.title}</h4>
                         <p className="projectAbout">{project.about}</p>
                         <ul className="technologies">
-                            <Technologies technologies={project.technologies}></Technologies>
+                            <TechListItem techItems={project.technologies}></TechListItem>
                         </ul>
                         <div className="row">
                             <button type="button" className="btn btn-info"><a className="repoLink" href={project.repo}>Repo</a></button>
@@ -23,7 +24,6 @@ function Project() {
                  
                 </div>
             )
-
         } else {
             return (
                 <div className="row projectRow">
@@ -31,7 +31,7 @@ function Project() {
                     <h4 className="projectTitle">{project.title}</h4>
                     <p className="projectAbout">{project.about}</p>
                     <ul className="technologies">
-                    <Technologies technologies={project.technologies}></Technologies>
+                        <TechListItem techItems={project.technologies}></TechListItem>
                     </ul>
                         <div className="row">
                             <button type="button" className="btn btn-info"><a className="repoLink" href={project.repo}>Repo</a></button>
@@ -45,6 +45,7 @@ function Project() {
         }
     })
 }
+
 export default Project;
 
 
