@@ -3,6 +3,7 @@
     z-index: 50;
     margin: 0;
     padding: 0;
+    padding-bottom: 12px;
     width: 100%;
 }
 
@@ -23,6 +24,7 @@
     letter-spacing: 2px;
     color:#203242;
     font-family: 'Bebas Neue', sans-serif;
+    cursor: pointer;
 }
 
 .fa-bars {
