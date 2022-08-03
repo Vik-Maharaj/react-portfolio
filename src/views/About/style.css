@@ -1,7 +1,16 @@
 .about-left {
-    background-color: #338aad;
+    background-image: url("../../img/about-section-picture_02.png");
+    background-attachment:inherit;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
     text-align: center;
+    filter: grayscale(45%);
 }
+
+.about-left:hover {
+    filter: grayscale(0%);
+  }
 
 .about-photo {
     width: 65vh;
@@ -10,7 +19,8 @@
 }
 
 #aboutTitle {
-    padding-bottom: 2vh;
+    padding-top: 25px;
+    padding-bottom: 0px;
 }
 
 .bioText {
@@ -37,4 +47,5 @@
 
 .skill {
     list-style-type: none;
+    font-weight: bold;
 }
