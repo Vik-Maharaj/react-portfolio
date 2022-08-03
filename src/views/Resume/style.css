@@ -1,9 +1,9 @@
 .viewFour {
-    background-color: #cae1e7;
+    background-image: url("../../img/Dark-Website-Background.jpg");
 }
 
 #resumeTitle {
-    margin-top: 10vh;
+    margin-top: 9vh;
     margin-bottom: 8vh;
     padding: 0;
 }
