@@ -1,7 +1,7 @@
 import React from "react";
-import "./style.css";
 import ContactForm from "../../components/ContactForm";
-import SocialMedia from "../../components/SocialMedia";
+import SocialLinks from "../../components/SocialLinks";
+import "./style.css";
 
 function Contact() {
   return (
@@ -9,13 +9,13 @@ function Contact() {
       <div className="row contact-row">
         <div className="formDiv" id="contact">
           <h3 className="viewTitle" id="contactTitle">
-            GET IN TOUCH
+            EMAIL ME
           </h3>
 
           <hr></hr>
 
           <ContactForm />
-          <SocialMedia />
+          <SocialLinks />
         </div>
       </div>
     </div>
