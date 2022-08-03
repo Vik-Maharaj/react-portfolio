@@ -8,10 +8,11 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Grid from '@mui/material/Grid';
 import Avatar from '@mui/material/Avatar';
+import ThumbnailOne from '../../img/thumbnail-01-devise.png';
 
 const mock = [
   {
-    image: 'https://insights.dice.com/wp-content/uploads/2020/05/shutterstock_1571829487.jpg',
+    image: `${ThumbnailOne}`,
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
     title: 'DEVise Web App',
     site: "https://github.com/Vik-Maharaj",
