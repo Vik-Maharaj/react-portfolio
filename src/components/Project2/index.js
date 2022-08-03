@@ -13,7 +13,7 @@ const mock = [
   {
     image: 'https://insights.dice.com/wp-content/uploads/2020/05/shutterstock_1571829487.jpg',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    title: 'https://www.google.com',
+    title: 'DEVise Web App',
     site: "https://github.com/Vik-Maharaj",
     author: {
       repo: 'https://msn.com',
@@ -24,7 +24,7 @@ const mock = [
   {
     image: 'https://www.digitalartsonline.co.uk/cmsdata/features/3674451/lifestyle_working_from_home_10.jpg',
     description: 'Excepteur sint occaecat cupidatat non proident',
-    title: 'Consectetur adipiscing elit',
+    title: 'Sweet Nostalgia Web App',
     site: "https://github.com",
     author: {
       repo: 'https://www.amazon.com',
@@ -35,7 +35,7 @@ const mock = [
   {
     image: 'https://www.velocityconsultancy.com/wp-content/uploads/2021/08/web-development.jpg',
     description: 'Eiusmod tempor incididunt ut labore et dolore magna aliqua. ',
-    title: 'Labore et dolore magna aliqua',
+    title: 'AiME Web App',
     site: "https://github.com/Vik-Maharaj",
     author: {
       repo: 'https://www.espn.com',
@@ -47,7 +47,7 @@ const mock = [
     image: 'https://www.robertsharpassociates.com/assets/images/uploads/web1.jpeg',
     description:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem',
-    title: 'Eiusmod tempor incididunt',
+    title: 'Fruitbook',
     site: "https://github.com/Vik-Maharaj",
     author: {
       repo: 'https://www.cnn.com',
@@ -58,7 +58,7 @@ const mock = [
   {
     image: 'https://lform.com/cms/resources/media/2021/01/custom-web-design-development.jpg',
     description: 'At vero eos et accusamus et iusto odio dignissimos ducimus',
-    title: 'Sed ut perspiciatis',
+    title: 'Team Profile Generator',
     site: "https://github.com/Vik-Maharaj",
     author: {
       repo: 'https://www.abc.com',
@@ -70,7 +70,7 @@ const mock = [
     image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
     description:
       'Qui blanditiis praesentium voluptatum deleniti atque corrupti',
-    title: 'Unde omnis iste natus',
+    title: 'Code Quiz',
     site: "https://github.com/Vik-Maharaj",
     author: {
       repo: 'https://www.disney.com',
@@ -78,6 +78,42 @@ const mock = [
     },
     date: '',
   },
+  {
+    image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
+    description:
+      'Qui blanditiis praesentium voluptatum deleniti atque corrupti',
+    title: 'Vik Weather Dashboard',
+    site: "https://github.com/Vik-Maharaj",
+    author: {
+      repo: 'https://www.disney.com',
+      avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
+    },
+    date: '',
+  },
+  {
+    image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
+    description:
+      'Qui blanditiis praesentium voluptatum deleniti atque corrupti',
+    title: 'Employee Tracker',
+    site: "https://github.com/Vik-Maharaj",
+    author: {
+      repo: 'https://www.disney.com',
+      avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
+    },
+    date: '',
+  },
+  {
+    image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
+    description:
+      'Qui blanditiis praesentium voluptatum deleniti atque corrupti',
+    title: 'Note Taker App',
+    site: "https://github.com/Vik-Maharaj",
+    author: {
+      repo: 'https://www.disney.com',
+      avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
+    },
+    date: '',
+  }
 ];
 
 const Project2 = () => {
