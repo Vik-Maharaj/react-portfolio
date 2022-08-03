@@ -1,10 +1,15 @@
 .viewFive {
-    background-image: url("../../assets/hero-bg-02.jpg");
+    background-image: url("../../img/hero-bg-02.jpg");
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: -10vh;
+    filter: grayscale(45%);
 }
+
+.viewFive:hover {
+    filter: grayscale(0%);
+  }
 
 #email-form {
     background-color: #f5f5f5;
