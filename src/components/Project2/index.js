@@ -9,6 +9,14 @@ import CardMedia from '@mui/material/CardMedia';
 import Grid from '@mui/material/Grid';
 import Avatar from '@mui/material/Avatar';
 import ThumbnailOne from '../../img/thumbnail-devise.png';
+import ThumbnailTwo from '../../img/thumbnail-sweet-nostalgia.png';
+import ThumbnailThree from '../../img/thumbnail-aime.png';
+import ThumbnailFour from '../../img/thumbnail-fruitbook.png';
+import ThumbnailFive from '../../img/thumbnail-team-profile-generator.png';
+import ThumbnailSix from '../../img/thumbnail-code-quiz.png';
+import ThumbnailSeven from '../../img/thumbnail-weather-dashboard.png';
+import ThumbnailEight from '../../img/thumbnail-employee-tracker.png';
+import ThumbnailNine from '../../img/thumbnail-budget-tracker.png';
 
 const mock = [
   {
@@ -23,7 +31,7 @@ const mock = [
     date: '',
   },
   {
-    image: 'https://www.digitalartsonline.co.uk/cmsdata/features/3674451/lifestyle_working_from_home_10.jpg',
+    image: `${ThumbnailTwo}`,
     description: `A Full-Stack Web Developer's CMS-style E-Commerce Application📚💻 🖥️ . The site is similar to most box subscription model sites, where clients can subscribe to a box subscription of their choice`,
     title: 'Sweet Nostalgia Web App',
     site: "sweet-nostalgia.herokuapp.com",
@@ -34,7 +42,7 @@ const mock = [
     date: '',
   },
   {
-    image: 'https://www.velocityconsultancy.com/wp-content/uploads/2021/08/web-development.jpg',
+    image: `${ThumbnailThree}`,
     description: 'A full-stack web application built with Node/Express and using the Model-View-Controller (MVC) paradigm to create a tech-focused blog where users can make posts, edit posts, and comment on other user submissions',
     title: 'AiME Web App',
     site: "aime-news.herokuapp.com",
@@ -45,7 +53,7 @@ const mock = [
     date: '',
   },
   {
-    image: 'https://www.robertsharpassociates.com/assets/images/uploads/web1.jpeg',
+    image: `${ThumbnailFour}`,
     description:
       'Team-built interactive frontend project utilizing three different server side REST APIs',
     title: 'Fruitbook',
@@ -57,7 +65,7 @@ const mock = [
     date: '',
   },
   {
-    image: 'https://lform.com/cms/resources/media/2021/01/custom-web-design-development.jpg',
+    image: `${ThumbnailFive}`,
     description: 'A Node.js CLI application utilizing Inquirer that takes in user input and generates an HTML webpage',
     title: 'Team Profile Generator',
     site: "https://github.com/Vik-Maharaj/team-profile-generator",
@@ -68,7 +76,7 @@ const mock = [
     date: '',
   },
   {
-    image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
+    image: `${ThumbnailSix}`,
     description:
       'Frontend quiz app built using JavaScript, CSS, and HTML⁠—about JavaScript',
     title: 'Code Quiz',
@@ -80,7 +88,7 @@ const mock = [
     date: '',
   },
   {
-    image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
+    image: `${ThumbnailSeven}`,
     description:
       `Simple weather app built using the OpenWeather API, JavaScript, CSS, HTML, and the user's local storage`,
     title: `Vik's Weather Dashboard`,
@@ -92,7 +100,7 @@ const mock = [
     date: '',
   },
   {
-    image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
+    image: `${ThumbnailEight}`,
     description:
       `A CLI application for managing a company's employees using Node.js, Express.js, Inquirer, and MySQL`,
     title: 'Employee Tracker',
@@ -104,7 +112,7 @@ const mock = [
     date: '',
   },
   {
-    image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
+    image: `${ThumbnailNine}`,
     description:
       `'A Progressive Web Application (PWA) budget tracker that has offline functionality to help track a user's financial transactions built using JS, Node, Express and MongoDB'`,
     title: `Vik's Budget Tracker`,
