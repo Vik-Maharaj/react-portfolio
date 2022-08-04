@@ -15,9 +15,9 @@ const mock = [
     image: `${ThumbnailOne}`,
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
     title: 'DEVise Web App',
-    site: "https://github.com/Vik-Maharaj",
+    site: "https://devise-collaboration-platform.herokuapp.com/",
     author: {
-      repo: 'https://msn.com',
+      repo: 'https://github.com/Vik-Maharaj/DEVise',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
     },
     date: '',
