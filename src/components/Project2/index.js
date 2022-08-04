@@ -13,7 +13,7 @@ import ThumbnailOne from '../../img/thumbnail-01-devise.png';
 const mock = [
   {
     image: `${ThumbnailOne}`,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+    description: 'Devise is a simple, open-source, web-based application for collaboration, creating, and connecting with people',
     title: 'DEVise Web App',
     site: "https://devise-collaboration-platform.herokuapp.com/",
     author: {
@@ -24,11 +24,11 @@ const mock = [
   },
   {
     image: 'https://www.digitalartsonline.co.uk/cmsdata/features/3674451/lifestyle_working_from_home_10.jpg',
-    description: 'Excepteur sint occaecat cupidatat non proident',
+    description: `'A Full-Stack Web Developer's CMS-style E-Commerce Application📚💻 🖥️ . The site is similar to most box subscription model sites, where clients can subscribe to a box subscription of their choice.'`,
     title: 'Sweet Nostalgia Web App',
-    site: "https://github.com",
+    site: "sweet-nostalgia.herokuapp.com",
     author: {
-      repo: 'https://www.amazon.com',
+      repo: 'https://github.com/Vik-Maharaj/Sweet-Nostalgia',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
     },
     date: '',
@@ -37,9 +37,9 @@ const mock = [
     image: 'https://www.velocityconsultancy.com/wp-content/uploads/2021/08/web-development.jpg',
     description: 'Eiusmod tempor incididunt ut labore et dolore magna aliqua. ',
     title: 'AiME Web App',
-    site: "https://github.com/Vik-Maharaj",
+    site: "aime-news.herokuapp.com",
     author: {
-      repo: 'https://www.espn.com',
+      repo: 'https://github.com/Vik-Maharaj/tech-blog',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
     },
     date: '',
