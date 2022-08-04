@@ -24,7 +24,7 @@ const mock = [
   },
   {
     image: 'https://www.digitalartsonline.co.uk/cmsdata/features/3674451/lifestyle_working_from_home_10.jpg',
-    description: `'A Full-Stack Web Developer's CMS-style E-Commerce Application📚💻 🖥️ . The site is similar to most box subscription model sites, where clients can subscribe to a box subscription of their choice.'`,
+    description: `A Full-Stack Web Developer's CMS-style E-Commerce Application📚💻 🖥️ . The site is similar to most box subscription model sites, where clients can subscribe to a box subscription of their choice`,
     title: 'Sweet Nostalgia Web App',
     site: "sweet-nostalgia.herokuapp.com",
     author: {
@@ -35,7 +35,7 @@ const mock = [
   },
   {
     image: 'https://www.velocityconsultancy.com/wp-content/uploads/2021/08/web-development.jpg',
-    description: 'Eiusmod tempor incididunt ut labore et dolore magna aliqua. ',
+    description: 'A full-stack web application built with Node/Express and using the Model-View-Controller (MVC) paradigm to create a tech-focused blog where users can make posts, edit posts, and comment on other user submissions',
     title: 'AiME Web App',
     site: "aime-news.herokuapp.com",
     author: {
@@ -47,22 +47,22 @@ const mock = [
   {
     image: 'https://www.robertsharpassociates.com/assets/images/uploads/web1.jpeg',
     description:
-      'Sed ut perspiciatis unde omnis iste natus error sit voluptatem',
+      'Team-built interactive frontend project utilizing three different server side REST APIs',
     title: 'Fruitbook',
-    site: "https://github.com/Vik-Maharaj",
+    site: "vik-maharaj.github.io/fruitbook/",
     author: {
-      repo: 'https://www.cnn.com',
+      repo: 'https://github.com/Vik-Maharaj/fruitbook',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
     },
     date: '',
   },
   {
     image: 'https://lform.com/cms/resources/media/2021/01/custom-web-design-development.jpg',
-    description: 'At vero eos et accusamus et iusto odio dignissimos ducimus',
+    description: 'A Node.js CLI application utilizing Inquirer that takes in user input and generates an HTML webpage',
     title: 'Team Profile Generator',
-    site: "https://github.com/Vik-Maharaj",
+    site: "https://github.com/Vik-Maharaj/team-profile-generator",
     author: {
-      repo: 'https://www.abc.com',
+      repo: 'https://github.com/Vik-Maharaj/team-profile-generator',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
     },
     date: '',
@@ -70,11 +70,11 @@ const mock = [
   {
     image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
     description:
-      'Qui blanditiis praesentium voluptatum deleniti atque corrupti',
+      'Frontend quiz app built using JavaScript, CSS, and HTML⁠—about JavaScript',
     title: 'Code Quiz',
-    site: "https://github.com/Vik-Maharaj",
+    site: "vik-maharaj.github.io/code-quiz/",
     author: {
-      repo: 'https://www.disney.com',
+      repo: 'https://github.com/Vik-Maharaj/code-quiz',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
     },
     date: '',
@@ -82,11 +82,11 @@ const mock = [
   {
     image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
     description:
-      'Qui blanditiis praesentium voluptatum deleniti atque corrupti',
-    title: 'Vik Weather Dashboard',
-    site: "https://github.com/Vik-Maharaj",
+      `Simple weather app built using the OpenWeather API, JavaScript, CSS, HTML, and the user's local storage`,
+    title: `Vik's Weather Dashboard`,
+    site: "vik-maharaj.github.io/weather-dashboard/",
     author: {
-      repo: 'https://www.disney.com',
+      repo: 'https://github.com/Vik-Maharaj/weather-dashboard',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
     },
     date: '',
@@ -94,11 +94,11 @@ const mock = [
   {
     image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
     description:
-      'Qui blanditiis praesentium voluptatum deleniti atque corrupti',
+      `A CLI application for managing a company's employees using Node.js, Express.js, Inquirer, and MySQL`,
     title: 'Employee Tracker',
-    site: "https://github.com/Vik-Maharaj",
+    site: "https://github.com/Vik-Maharaj/employee-tracker",
     author: {
-      repo: 'https://www.disney.com',
+      repo: 'https://github.com/Vik-Maharaj/employee-tracker',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
     },
     date: '',
@@ -106,11 +106,11 @@ const mock = [
   {
     image: 'https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-web-development.jpg',
     description:
-      'Qui blanditiis praesentium voluptatum deleniti atque corrupti',
-    title: 'Note Taker App',
-    site: "https://github.com/Vik-Maharaj",
+      `'A Progressive Web Application (PWA) budget tracker that has offline functionality to help track a user's financial transactions built using JS, Node, Express and MongoDB'`,
+    title: `Vik's Budget Tracker`,
+    site: "vik-budget-tracker.herokuapp.com",
     author: {
-      repo: 'https://www.disney.com',
+      repo: 'https://github.com/Vik-Maharaj/budget-tracker',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
     },
     date: '',
