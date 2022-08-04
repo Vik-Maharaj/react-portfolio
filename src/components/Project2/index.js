@@ -8,7 +8,7 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Grid from '@mui/material/Grid';
 import Avatar from '@mui/material/Avatar';
-import ThumbnailOne from '../../img/thumbnail-01-devise.png';
+import ThumbnailOne from '../../img/thumbnail-devise.png';
 
 const mock = [
   {
