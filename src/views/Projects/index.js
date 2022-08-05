@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Project2 from "../../components/Project2";
+import Project from "../../components/Project";
 import Box from '@mui/material/Box';
 import Container from './Container';
 
@@ -16,7 +16,7 @@ function Projects() {
 
             <Box paddingBottom={{ xs: 2, sm: 3, md: 4 }}>
                 <Container paddingTop={'0 !important'}>
-                    <Project2 />
+                    <Project />
                 </Container>
             </Box>
 

@@ -125,7 +125,7 @@ const mock = [
   }
 ];
 
-const Project2 = () => {
+const Project = () => {
   const theme = useTheme();
   return (
     <Box>
@@ -232,4 +232,4 @@ const Project2 = () => {
   );
 };
 
-export default Project2;
+export default Project;
