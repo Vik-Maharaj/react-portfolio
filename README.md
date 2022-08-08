@@ -1,4 +1,4 @@
-# Vik Maharaj's Web Portfolio
+# Vik Maharaj's Web Portfolio (React)
 
 ## Description
 
@@ -18,7 +18,7 @@ To accomplish this, the portfolio was created with the following features:
 
 An online portfolio is never complete, and can be continually updated once new projects are accomplished. But before that can happen, an initial version has to be created, and now with this initial portfolio I have something to promote and build from.
 
-Link to the deployed website: https://vik-maharaj.github.io/vik-maharaj-web-portfolio/
+Link to the deployed website: 
 
 
 ## Installation
@@ -35,7 +35,7 @@ Using any dekstop browser, open the above mentioned link to view the webpage.
 
 ## Credits
 
-Code snippets courtesy of © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Collaborators include the instructor, TAs, and fellow classmates of the UCF Coding Bootcamp (Spring 2022).
 
 Other resources include www.w3schools.com and www.stackoverflow.com.
 
