@@ -22,10 +22,11 @@
     margin: auto;
     padding-bottom: 20px;
     margin-bottom: 10vh;
-    margin-top: 5vh;
+    margin-top: 9vh;
 }
 
 #contactTitle {
+    padding-top: 5vh;
     padding-bottom: 2vh;
 }
 
