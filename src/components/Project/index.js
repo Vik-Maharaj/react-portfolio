@@ -17,6 +17,7 @@ import ThumbnailSix from '../../img/thumbnail-code-quiz.png';
 import ThumbnailSeven from '../../img/thumbnail-weather-dashboard.png';
 import ThumbnailEight from '../../img/thumbnail-employee-tracker.png';
 import ThumbnailNine from '../../img/thumbnail-budget-tracker.png';
+import "./style.css";
 
 const mock = [
   {
