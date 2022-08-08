@@ -35,7 +35,7 @@ const mock = [
     image: `${ThumbnailTwo}`,
     description: `A Full-Stack Web Developer's CMS-style E-Commerce Application📚💻 🖥️ . The site is similar to most box subscription model sites, where clients can subscribe to a box subscription of their choice`,
     title: 'Sweet Nostalgia Web App',
-    site: "sweet-nostalgia.herokuapp.com",
+    site: "https://sweet-nostalgia.herokuapp.com",
     author: {
       repo: 'https://github.com/Vik-Maharaj/Sweet-Nostalgia',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
@@ -46,7 +46,7 @@ const mock = [
     image: `${ThumbnailThree}`,
     description: 'A full-stack web application built with Node/Express and using the Model-View-Controller (MVC) paradigm to create a tech-focused blog where users can make posts, edit posts, and comment on other user submissions',
     title: 'AiME Web App',
-    site: "aime-news.herokuapp.com",
+    site: "https://aime-news.herokuapp.com",
     author: {
       repo: 'https://github.com/Vik-Maharaj/tech-blog',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
@@ -58,7 +58,7 @@ const mock = [
     description:
       'Team-built interactive frontend project utilizing three different server side REST APIs',
     title: 'Fruitbook',
-    site: "vik-maharaj.github.io/fruitbook/",
+    site: "https://vik-maharaj.github.io/fruitbook/",
     author: {
       repo: 'https://github.com/Vik-Maharaj/fruitbook',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
@@ -81,7 +81,7 @@ const mock = [
     description:
       'Frontend quiz app built using JavaScript, CSS, and HTML⁠—about JavaScript',
     title: 'Code Quiz',
-    site: "vik-maharaj.github.io/code-quiz/",
+    site: "https://vik-maharaj.github.io/code-quiz/",
     author: {
       repo: 'https://github.com/Vik-Maharaj/code-quiz',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
@@ -93,7 +93,7 @@ const mock = [
     description:
       `Simple weather app built using the OpenWeather API, JavaScript, CSS, HTML, and the user's local storage`,
     title: `Vik's Weather Dashboard`,
-    site: "vik-maharaj.github.io/weather-dashboard/",
+    site: "https://vik-maharaj.github.io/weather-dashboard/",
     author: {
       repo: 'https://github.com/Vik-Maharaj/weather-dashboard',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
@@ -117,7 +117,7 @@ const mock = [
     description:
       `'A Progressive Web Application (PWA) budget tracker that has offline functionality to help track a user's financial transactions built using JS, Node, Express and MongoDB'`,
     title: `Vik's Budget Tracker`,
-    site: "vik-budget-tracker.herokuapp.com",
+    site: "https://vik-budget-tracker.herokuapp.com",
     author: {
       repo: 'https://github.com/Vik-Maharaj/budget-tracker',
       avatar: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',

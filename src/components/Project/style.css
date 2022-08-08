@@ -70,14 +70,14 @@ a:hover {
 } */
 
 
-.MuiCardMedia-root  {
+/* .MuiCardMedia-root  {
   filter: grayscale(100%);
 }
 
 
 .MuiCardMedia-root:hover {
   filter: grayscale(0%);
-}
+} */
 
 
 .MuiTypography-root:hover {
