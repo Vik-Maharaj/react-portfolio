@@ -2,18 +2,19 @@
 
 ## Description
 
-An online portfolio is an essential tool for a developer-being able to show off finished projects and demonstrate coding proficency is a critical part of the job-seeking process.
+An online portfolio is an essential tool for a developer. Being able to show off finished projects and demonstrate coding proficiency is a critical part of the job-seeking process.
 
-Enter the purpose of this project: take an existing proftilio, previously built entirely with HTML and CSS, and revise it using React.js. Do so allows the portfolio to be more versitile, with resuable components, with a more robust and functional "Projects" section that can be udated much easier.
+Enter the purpose of this project: take an existing portfolio website (previously built entirely with HTML and CSS) and revise it using React.js. By doing this, it allows the portfolio to be more versatile, with reusable pieces, and with a more robust and functional "Projects" section that can be easily updated.
 
-To accomplish this, the portfolio was created with the following features:
+The portfolio contains the following features:
 
-- At the top of the webpage, the page loads with my name and links to various sections of the page-all created with react components and navigated using React Router.
-- The Projects section of the website (built with cards from the Material UI library) features images of the work samples, and when clicked, takes the user to selected deployed website, or the Github repo of the selected project.
-- The contact section has external links to my LinkedIn and GitHub profiles, along with an email form for future use.
+- At the top of the webpage, the page loads with name and links to various sections of the page—all created with react components and navigated using React Router.
+- The Projects section of the website (built with cards from the Material UI library) features images of the work samples, and depending where it is clicked, takes the user to the selected deployed website or to the GitHub repo of the selected project.
+- The contact section has external links to LinkedIn and GitHub profiles, along with an email form for future use.
 
 Link to the deployed website: vik-maharaj.github.io/react-portfolio/
 
+![Vik Maharaj Website Screenshot](src/img/screenshot.png)
 
 ## Installation
 
@@ -23,8 +24,6 @@ To install this application, first clone the repo to your local machine. Then, y
 ## Usage
 
 Once the dependencies are installed, to use the application, initialize the server with the following command, ```npm run start```, and it can then be opened locally (or accessed any time via the above deployed site url).
-
-![Vik Maharaj Website Screenshot](assets/images/screenshot.png)
 
 
 ## Credits
