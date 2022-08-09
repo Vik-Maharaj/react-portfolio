@@ -2,33 +2,27 @@
 
 ## Description
 
-When applying for web development positions, an employer wants to know about the candidate, and more importantly, wants to see what the candidate has done. So, having an online portfolio is essential.
+An online portfolio is an essential tool for a developer-being able to show off finished projects and demonstrate coding proficency is a critical part of the job-seeking process.
 
-Enter the purpose of this project: Since I don’t have one, I need to create a portfolio that I can link to in my resume and future job applications, so that an employer can view from any web browser.  
+Enter the purpose of this project: take an existing proftilio, previously built entirely with HTML and CSS, and revise it using React.js. Do so allows the portfolio to be more versitile, with resuable components, with a more robust and functional "Projects" section that can be udated much easier.
 
 To accomplish this, the portfolio was created with the following features:
 
-- At the top of the webpage, the page loads with my name and links to sections about me, my skills, my portfolio samples, and how to contact me.
-- Following the section links at the top, there is a recent picture.
-- There is a skills section that highlights some of my skills along with a picture representation of those items.
-- The portfolio page of the website features images of the work samples, and when clicked, takes the user to the deployed websites of those samples.
+- At the top of the webpage, the page loads with my name and links to various sections of the page-all created with react components and navigated using React Router.
+- The Projects section of the website (built with cards from the Material UI library) features images of the work samples, and when clicked, takes the user to selected deployed website, or the Github repo of the selected project.
 - The contact section has external links to my LinkedIn and GitHub profiles, along with an email form for future use.
-- The entire webpage can be viewed on any device, and presents a responsive layout that can adapt to any viewport.
-- The webpage also contains user interactivity that allows certain images to change in color or appearance once the mouse hovers over it.
 
-An online portfolio is never complete, and can be continually updated once new projects are accomplished. But before that can happen, an initial version has to be created, and now with this initial portfolio I have something to promote and build from.
-
-Link to the deployed website: https://vik-maharaj.github.io/vik-maharaj-web-portfolio/
+Link to the deployed website: vik-maharaj.github.io/react-portfolio/
 
 
 ## Installation
 
-The repo contains an index.html file, and assets folder containing a CSS file sytlesheet and corresponding images. These files were deployed at the above mentioned link using GitHub Pages. The repo can also be cloned to a local machine and the index.html file can be opened in any web browser or IDE of choice.
+To install this application, first clone the repo to your local machine. Then, you will need to install the node dependencies/modules which can be done by running the ```npm install``` command in your terminal/bash shell. 
 
 
 ## Usage
 
-Using any dekstop browser, open the above mentioned link to view the webpage.
+Once the dependencies are installed, to use the application, initialize the server with the following command, ```npm run start```, and it can then be opened locally (or accessed any time via the above deployed site url).
 
 ![Vik Maharaj Website Screenshot](assets/images/screenshot.png)
 
