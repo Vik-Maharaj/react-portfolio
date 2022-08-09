@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.a14fac63.css",
-    "main.js": "/react-portfolio/static/js/main.20a9fb44.js",
+    "main.js": "/react-portfolio/static/js/main.560fff96.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/hero-section-picture_02.png": "/react-portfolio/static/media/hero-section-picture_02.84fcfd929f0bc7f0dda4.png",
     "static/media/about-section-picture_02.png": "/react-portfolio/static/media/about-section-picture_02.4289fb469627dfd951eb.png",
@@ -17,14 +17,14 @@
     "static/media/thumbnail-code-quiz.png": "/react-portfolio/static/media/thumbnail-code-quiz.989b92b12fa7250fcbfc.png",
     "static/media/thumbnail-budget-tracker.png": "/react-portfolio/static/media/thumbnail-budget-tracker.3dae441acccfaa6b30d3.png",
     "static/media/Dark-Website-Background.jpg": "/react-portfolio/static/media/Dark-Website-Background.9d29e7673dbc2920d4fb.jpg",
-    "static/media/vik-maharaj-web-developer-resume.pdf": "/react-portfolio/static/media/vik-maharaj-web-developer-resume.b3e8c482fd4ac2c8db49.pdf",
+    "static/media/vik-maharaj-web-developer-resume.pdf": "/react-portfolio/static/media/vik-maharaj-web-developer-resume.7d73e8175f1c19f78282.pdf",
     "index.html": "/react-portfolio/index.html",
     "main.a14fac63.css.map": "/react-portfolio/static/css/main.a14fac63.css.map",
-    "main.20a9fb44.js.map": "/react-portfolio/static/js/main.20a9fb44.js.map",
+    "main.560fff96.js.map": "/react-portfolio/static/js/main.560fff96.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a14fac63.css",
-    "static/js/main.20a9fb44.js"
+    "static/js/main.560fff96.js"
   ]
 }
