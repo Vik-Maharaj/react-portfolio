@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.a14fac63.css",
+    "main.js": "/react-portfolio/static/js/main.20a9fb44.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/hero-section-picture_02.png": "/react-portfolio/static/media/hero-section-picture_02.84fcfd929f0bc7f0dda4.png",
+    "static/media/about-section-picture_02.png": "/react-portfolio/static/media/about-section-picture_02.4289fb469627dfd951eb.png",
+    "static/media/intro_pic_w_background.png": "/react-portfolio/static/media/intro_pic_w_background.7e812a4f01c226149ea6.png",
+    "static/media/hero-bg-02.jpg": "/react-portfolio/static/media/hero-bg-02.279cb1c751236664139e.jpg",
+    "static/media/thumbnail-sweet-nostalgia.png": "/react-portfolio/static/media/thumbnail-sweet-nostalgia.e3689f4fa7bfabe54497.png",
+    "static/media/thumbnail-fruitbook.png": "/react-portfolio/static/media/thumbnail-fruitbook.fcc9807485662594df61.png",
+    "static/media/thumbnail-team-profile-generator.png": "/react-portfolio/static/media/thumbnail-team-profile-generator.d1d2125cd5b1f5eebb35.png",
+    "static/media/thumbnail-devise.png": "/react-portfolio/static/media/thumbnail-devise.a2fda27d5e7d798fbced.png",
+    "static/media/thumbnail-aime.png": "/react-portfolio/static/media/thumbnail-aime.0e24fd5b1f25e9aab4d9.png",
+    "static/media/thumbnail-weather-dashboard.png": "/react-portfolio/static/media/thumbnail-weather-dashboard.8abe85ca2f435b4b11b9.png",
+    "static/media/thumbnail-employee-tracker.png": "/react-portfolio/static/media/thumbnail-employee-tracker.76c73069b54d837d9818.png",
+    "static/media/thumbnail-code-quiz.png": "/react-portfolio/static/media/thumbnail-code-quiz.989b92b12fa7250fcbfc.png",
+    "static/media/thumbnail-budget-tracker.png": "/react-portfolio/static/media/thumbnail-budget-tracker.3dae441acccfaa6b30d3.png",
+    "static/media/Dark-Website-Background.jpg": "/react-portfolio/static/media/Dark-Website-Background.9d29e7673dbc2920d4fb.jpg",
+    "static/media/vik-maharaj-web-developer-resume.pdf": "/react-portfolio/static/media/vik-maharaj-web-developer-resume.b3e8c482fd4ac2c8db49.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.a14fac63.css.map": "/react-portfolio/static/css/main.a14fac63.css.map",
+    "main.20a9fb44.js.map": "/react-portfolio/static/js/main.20a9fb44.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14fac63.css",
+    "static/js/main.20a9fb44.js"
+  ]
+}
